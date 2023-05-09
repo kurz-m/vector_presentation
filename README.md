@@ -14,7 +14,7 @@ This is the presentation for the tech challenge from Gründermotor and Vector In
 
 <h2 align="center">
     >>>
-    <a href="https://kurz-m/github.io/vector_presentation">
+    <a href="https://kurz-m.github.io/vector_presentation/">
         Innovation Sprint Tech Challenge
     </a>
     <<<
