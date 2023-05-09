@@ -13,11 +13,11 @@ This is the presentation for the tech challenge from Gründermotor and Vector In
 </p>
 
 <h2 align="center">
-    >>
+    >>>
     <a href="https://kurz-m/github.io/vector_presentation">
         Innovation Sprint Tech Challenge
     </a>
-    <<
+    <<<
 </h2>
 
 <p align="center">
