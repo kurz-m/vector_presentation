@@ -24,6 +24,6 @@ This is the presentation for the tech challenge from Gründermotor and Vector In
     Created with
     <br>
     <a href="https://skillicons.dev">
-        <img src="https://skillicons.dev/icons?i=c,nodejs,python,neovim,css,html"/>
+        <img src="https://skillicons.dev/icons?i=c,nodejs,python,neovim,css,html,javascript"/>
     </a>
 </p>
